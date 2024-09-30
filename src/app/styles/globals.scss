@@ -1,0 +1,19 @@
+@import "./Navbar.scss";
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1 {
+    text-align: center; // Centrer les titres
+    margin-top: 20px;
+}
+
+p {
+    text-align: center; // Centrer les paragraphes
+    margin: 10px auto;
+    max-width: 600px; // Largeur maximale pour les paragraphes
+}

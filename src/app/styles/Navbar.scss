@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #333;
+    padding: 10px;
+
+    a {
+        color: white;
+        margin-right: 15px;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline; // Ajoute un effet au survol
+        }
+    }
+}
